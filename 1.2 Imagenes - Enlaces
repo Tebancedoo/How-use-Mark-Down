@@ -1,0 +1,12 @@
+![texto alternativo de la imagen](url de la imagen )
+
+[texto del enlace](url del enlace)
+
+
+
+este va a ser un texto demostrativo de como poner enlaces en varias palabras sin repetirlo una
+y otra vez[curso] [curso] [curso]
+
+[curso]: url
+
+

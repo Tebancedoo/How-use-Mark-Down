@@ -8,3 +8,19 @@ En este repositorio se explicara de forma detallada con usar marckdown
 
 # Este es un encabezado en codigo HTML <h1></h1> 
 ## Los encabezados se crean con ~ # ~ 
+
+***
+
+# Herramientas para usar MarckDown
+
+## Editores online
+
+* StackEdit
+* Dillinger
+
+***
+
+# Herramientas para escribir
+* IA Writing (Escritores)
+* Typora (Programadores)
+
